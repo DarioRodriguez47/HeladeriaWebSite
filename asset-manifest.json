@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HeladeriaWebSite/static/css/main.d41ebc6b.css",
-    "main.js": "/HeladeriaWebSite/static/js/main.b2bed176.js",
+    "main.js": "/HeladeriaWebSite/static/js/main.c5d2431b.js",
     "static/js/453.496107a5.chunk.js": "/HeladeriaWebSite/static/js/453.496107a5.chunk.js",
     "static/media/fa-solid-900.svg": "/HeladeriaWebSite/static/media/fa-solid-900.3fbf3c2553ba03410a4f.svg",
     "static/media/fa-brands-400.svg": "/HeladeriaWebSite/static/media/fa-brands-400.7b7d0ddbcc46b8bdd494.svg",
@@ -10,7 +10,6 @@
     "static/media/fa-solid-900.ttf": "/HeladeriaWebSite/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
     "static/media/image3.webp": "/HeladeriaWebSite/static/media/image3.7a1790623c701aba1639.webp",
     "static/media/image5.webp": "/HeladeriaWebSite/static/media/image5.f73ddf37bccdf3103569.webp",
-    "static/media/image1.webp": "/HeladeriaWebSite/static/media/image1.5dc409d59d74208d0469.webp",
     "static/media/fa-regular-400.svg": "/HeladeriaWebSite/static/media/fa-regular-400.ac3d16eb330a74f2279a.svg",
     "static/media/image2.webp": "/HeladeriaWebSite/static/media/image2.97303d64e72ddbdc5db8.webp",
     "static/media/fa-brands-400.eot": "/HeladeriaWebSite/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
@@ -28,11 +27,11 @@
     "static/media/fa-regular-400.woff2": "/HeladeriaWebSite/static/media/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
     "index.html": "/HeladeriaWebSite/index.html",
     "main.d41ebc6b.css.map": "/HeladeriaWebSite/static/css/main.d41ebc6b.css.map",
-    "main.b2bed176.js.map": "/HeladeriaWebSite/static/js/main.b2bed176.js.map",
+    "main.c5d2431b.js.map": "/HeladeriaWebSite/static/js/main.c5d2431b.js.map",
     "453.496107a5.chunk.js.map": "/HeladeriaWebSite/static/js/453.496107a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d41ebc6b.css",
-    "static/js/main.b2bed176.js"
+    "static/js/main.c5d2431b.js"
   ]
 }
