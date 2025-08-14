@@ -1,0 +1,14 @@
+.lugar .background {
+  background: url('../../Assets/img/image4.webp');
+}
+.lugar .background {
+  background: url('../../Assets/img/image4.webp');
+}
+.full {
+  position: relative;
+  z-index: 2;
+}
+.full .btn {
+  position: relative;
+  z-index: 3;
+}

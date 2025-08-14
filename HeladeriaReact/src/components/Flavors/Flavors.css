@@ -1,0 +1,70 @@
+/** SECCIONES */
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+/** CONTENEDOR BACKGROUND */
+.background {
+  background-size: cover !important;
+  background-position: right !important;
+}
+.sabores div.background {
+  background: url('../../Assets/img/image2.webp');
+}
+.text-content.lateral {
+  padding: 0 50px;
+}
+.text-content.lateral h1 {
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 1;
+  text-align: center;
+}
+.text-content.lateral h3 {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+}
+.text-content.lateral p {
+  font-size: 20px;
+  margin: 20px 0;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+/** SECCIONES */
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+/** CONTENEDOR BACKGROUND */
+.background {
+  background-size: cover !important;
+  background-position: right !important;
+}
+.sabores div.background {
+  background: url('../../Assets/img/image2.webp');
+}
+.text-content.lateral {
+  padding: 0 50px;
+}
+.text-content.lateral h1 {
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 1;
+  text-align: center;
+}
+.text-content.lateral h3 {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+}
+.text-content.lateral p {
+  font-size: 20px;
+  margin: 20px 0;
+  text-align: center;
+  letter-spacing: 0.5px;
+}

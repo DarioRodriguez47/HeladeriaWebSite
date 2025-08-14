@@ -1,0 +1,14 @@
+.postres .background {
+  background: url('../../Assets/img/image6.webp');
+}
+.postres .background {
+  background: url('../../Assets/img/image6.webp');
+}
+.full {
+  position: relative;
+  z-index: 2;
+}
+.full .btn {
+  position: relative;
+  z-index: 3;
+}

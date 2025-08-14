@@ -1,0 +1,24 @@
+.especial {
+  background: #B5E8D5;
+}
+.especial::before {
+  background: url('../../Assets/img/image3.webp');
+}
+.full::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed !important;
+  background-position: center !important;
+}
+.full {
+  position: relative;
+  z-index: 2;
+}
+.full .btn {
+  position: relative;
+  z-index: 3;
+}
